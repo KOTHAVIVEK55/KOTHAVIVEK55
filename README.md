@@ -59,9 +59,13 @@ I am particularly interested in the intersection of software engineering and art
 
 [![Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql&theme=dark)](https://skillicons.dev)
 
-**Cloud, DevOps & Tooling**
+**Tools**
 
-[![Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark)](https://skillicons.dev)
+
+**Data Science & ML**
+
+[![Skills](https://skillicons.dev/icons?i=python,sklearn&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -211,15 +215,15 @@ Designed and implemented a production-grade backend automation framework for ser
 
 **SyntecxHub**
 
-<a href="https://syntecxhub.com" target="_blank"><img src="https://img.shields.io/badge/Backend%20Development-Certified-6D28D9?style=for-the-badge&logo=serverless&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Backend%20Development-SyntecxHub-6D28D9?style=for-the-badge&logo=serverless&logoColor=white"/>
 
 **Cisco Networking Academy**
 
-<a href="https://www.netacad.com" target="_blank"><img src="https://img.shields.io/badge/JavaScript%20Essentials-Cisco%20NetAcad-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript%20Essentials-Cisco%20NetAcad-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 
 **HEXART**
 
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/AI%20Course-HEXART%20Certified-7C3AED?style=for-the-badge&logo=openai&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/AI%20Course-HEXART%20Certified-7C3AED?style=for-the-badge&logo=openai&logoColor=white"/>
 
 </div>
 
