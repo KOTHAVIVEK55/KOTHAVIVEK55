@@ -7,17 +7,17 @@
 <br/>
 
 ![B.Tech CSE(AI&ML)](https://img.shields.io/badge/B.Tech-CSE%20AI%26ML-6D28D9?style=for-the-badge&logo=academia&logoColor=white)
-![GPA](https://img.shields.io/badge/GPA-8.65%2F10-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white)
+![GPA](https://img.shields.io/badge/GPA-8.65%2F10-7C3AED?style=for-the-badge&logoColor=white)
 ![Location](https://img.shields.io/badge/Hyderabad-India-4F46E5?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Work-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vivekkotha)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kothavivek55@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KOTHAVIVEK55)
+<a href="https://papaya-biscuit-b3ac53.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-View%20Work-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://linkedin.com/in/vivekkotha" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:kothavivek55@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/KOTHAVIVEK55" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<br/>
+<br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KOTHAVIVEK55&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/KOTHAVIVEK55?style=for-the-badge&color=7C3AED&label=FOLLOWERS)
@@ -75,7 +75,7 @@ I am particularly interested in the intersection of software engineering and art
 |:---|:---:|:---|
 | Classification Algorithms | ████████░░ Advanced | Random Forest, XGBoost, Logistic Regression |
 | Regression Algorithms | ███████░░░ Proficient | Linear, Ridge, Gradient Boosting |
-| Feature Engineering | ████████░░ Advanced | Multi-source pipelines, attendance, fees, marks, discipline |
+| Feature Engineering | ████████░░ Advanced | Multi-source pipelines: attendance, fees, marks, discipline |
 | ML Model Deployment | ███████░░░ Proficient | Python + Node.js integration, real-time inference |
 | Data Analysis | ████████░░ Advanced | NumPy, Pandas, Matplotlib, Scikit-learn |
 | Automation & Orchestration | █████████░ Expert | Make.com, cron jobs, webhook pipelines, Twilio |
@@ -100,7 +100,7 @@ I am particularly interested in the intersection of software engineering and art
 | **Performance** | 10x faster at-risk identification · 3-tier automated classification |
 | **Impact** | 80% reduction in manual follow-up · Automated WhatsApp interventions |
 | **Security** | Server-side risk thresholds · Role-controlled intervention triggers |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-6D28D9?style=flat-square&logo=github&logoColor=white)](https://github.com/KOTHAVIVEK55) |
+| **Repository** | <a href="https://github.com/KOTHAVIVEK55/Churn-Prediction-Interention" target="_blank"><img src="https://img.shields.io/badge/View%20Repo-6D28D9?style=flat-square&logo=github&logoColor=white"/></a> |
 
 Built a tri-engine ML system combining Random Forest and XGBoost on real institutional data spanning attendance, fees, academic marks, and discipline records. Engineered a real-time risk classification layer that triggers Twilio WhatsApp automations directly, reducing counselor workload by 80% and cutting identification time by a factor of ten. Each risk tier maps to a differentiated intervention plan, enabling precise, scalable student support at zero added human cost.
 
@@ -122,7 +122,7 @@ Built a tri-engine ML system combining Random Forest and XGBoost on real institu
 | **Performance** | Near-zero billing errors · Server-side session validation |
 | **Impact** | Automated revenue split between platform and host in real time |
 | **Security** | Server-side coin deduction · Role-based access enforcement |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-6D28D9?style=flat-square&logo=github&logoColor=white)](https://github.com/KOTHAVIVEK55) |
+| **Repository** | <a href="https://github.com/KOTHAVIVEK55" target="_blank"><img src="https://img.shields.io/badge/View%20Repo-6D28D9?style=flat-square&logo=github&logoColor=white"/></a> |
 
 Engineered the complete backend for a live monetized social platform supporting Caller and Host roles. Built five core APIs covering call initiation, switching, termination, and coin-based billing with automated revenue distribution. Designed a real-time Firestore layer synchronizing call activity, user availability, and role-based access simultaneously. Eliminated billing discrepancies by enforcing all coin deduction and session logic server-side, achieving near-zero error rates under live load.
 
@@ -144,7 +144,7 @@ Engineered the complete backend for a live monetized social platform supporting 
 | **Performance** | 95% reduction in manual email effort · Instant Telegram alerts |
 | **Impact** | 4-stage pipeline: Webhook → Processing → Retrieval → Dispatch |
 | **Security** | Bot filtering layer · Verified contact validation |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-6D28D9?style=flat-square&logo=github&logoColor=white)](https://github.com/KOTHAVIVEK55) |
+| **Repository** | <a href="https://github.com/KOTHAVIVEK55/Email-automation-Notification-Triggering" target="_blank"><img src="https://img.shields.io/badge/View%20Repo-6D28D9?style=flat-square&logo=github&logoColor=white"/></a> |
 
 Architected a four-stage automation pipeline that sends personalized bulk referral emails to 100+ HR contacts with Resume and LOR attached, driven by structured input data (name, role, company). Built an intelligent reply tracker monitoring Gmail across 500+ contacts, filtering automated bot responses, and dispatching real-time Telegram alerts for genuine replies. Achieved zero infrastructure cost by engineering the entire system on Make, Gmail, and Google Sheets free tiers — a fully production-grade outreach engine with no hosting overhead.
 
@@ -183,7 +183,7 @@ Designed and implemented a production-grade backend automation framework for ser
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Cron Jobs](https://img.shields.io/badge/Cron%20Jobs-4F46E5?style=flat-square&logo=clockify&logoColor=white)
+![Cron Jobs](https://img.shields.io/badge/Cron%20Jobs-4F46E5?style=flat-square&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
 ---
@@ -211,15 +211,15 @@ Designed and implemented a production-grade backend automation framework for ser
 
 **SyntecxHub**
 
-![Backend Development](https://img.shields.io/badge/Backend%20Development-SyntecxHub-6D28D9?style=for-the-badge&logo=serverless&logoColor=white)
+<a href="https://syntecxhub.com" target="_blank"><img src="https://img.shields.io/badge/Backend%20Development-Certified-6D28D9?style=for-the-badge&logo=serverless&logoColor=white"/></a>
 
 **Cisco Networking Academy**
 
-![JavaScript Essentials](https://img.shields.io/badge/JavaScript%20Essentials-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+<a href="https://www.netacad.com" target="_blank"><img src="https://img.shields.io/badge/JavaScript%20Essentials-Cisco%20NetAcad-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/></a>
 
 **HEXART**
 
-![AI Course](https://img.shields.io/badge/AI%20Course%20Certification-HEXART-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/AI%20Course-HEXART%20Certified-7C3AED?style=for-the-badge&logo=openai&logoColor=white"/></a>
 
 </div>
 
@@ -229,8 +229,8 @@ Designed and implemented a production-grade backend automation framework for ser
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-kothavivek55-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/kothavivek55)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-kothavivek55-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/kothavivek55)
+<a href="https://leetcode.com/kothavivek55" target="_blank"><img src="https://img.shields.io/badge/LeetCode-kothavivek55-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://auth.geeksforgeeks.org/user/kothavivek55" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-kothavivek55-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 
 </div>
 
@@ -292,22 +292,23 @@ Designed and implemented a production-grade backend automation framework for ser
 ```yaml
 vivek_kotha:
   learning:
-    - System Design & Distributed Systems Architecture
-    - Advanced ML Deployment Patterns (FastAPI + Docker)
-    - Cloud Infrastructure (GCP / Firebase Advanced)
+    - Deep Learning fundamentals: CNNs, RNNs, Transformers from scratch
+    - LLM internals: attention mechanisms, fine-tuning, RAG pipelines
+    - Autonomous AI Agents: LangChain, tool-use, memory, multi-agent systems
+    - Vector databases and semantic search (Pinecone, ChromaDB)
   building:
     - Production-grade AI-powered backend systems
     - Intelligent automation pipelines with measurable business impact
-    - Real-time data synchronization at scale
+    - Agentic workflows that reason, plan, and act autonomously
   exploring:
-    - LLM Integration in backend workflows
-    - Vector databases and semantic search
-    - Edge ML inference optimization
+    - Agent frameworks: CrewAI, AutoGen, LangGraph
+    - Edge ML inference and model optimization techniques
+    - Prompt engineering and evaluation at scale
   open_to:
     - Backend Engineering Internships & Full-Time Roles
     - AI/ML Engineering Opportunities
+    - Agent & LLM-focused Projects
     - Open Source Collaboration
-    - Research in Applied Machine Learning
 ```
 
 ---
@@ -316,10 +317,10 @@ vivek_kotha:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-kothavivek55%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kothavivek55@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vivekkotha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vivekkotha)
-[![GitHub](https://img.shields.io/badge/GitHub-KOTHAVIVEK55-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KOTHAVIVEK55)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Work-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
+<a href="mailto:kothavivek55@gmail.com"><img src="https://img.shields.io/badge/Gmail-kothavivek55%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/vivekkotha" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-vivekkotha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/KOTHAVIVEK55" target="_blank"><img src="https://img.shields.io/badge/GitHub-KOTHAVIVEK55-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://papaya-biscuit-b3ac53.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-View%20Work-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </div>
 
