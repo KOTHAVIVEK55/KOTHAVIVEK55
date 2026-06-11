@@ -279,12 +279,20 @@ Designed and implemented a production-grade backend automation framework for ser
 
 ## ◈ Contribution Snake
 
+## ◈ Contribution Snake
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/KOTHAVIVEK55/KOTHAVIVEK55/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/KOTHAVIVEK55/KOTHAVIVEK55/output/github-snake.svg">
+  <img alt="github contribution snake"
+    src="https://raw.githubusercontent.com/KOTHAVIVEK55/KOTHAVIVEK55/output/github-snake.svg">
+</picture>
 
 </div>
-
 ---
 
 ## ◈ Current Focus
