@@ -257,15 +257,7 @@ Designed and implemented a production-grade backend automation framework for ser
 
 ---
 
-## ◈ GitHub Trophies
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=KOTHAVIVEK55&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## ◈ Contribution Activity
 
