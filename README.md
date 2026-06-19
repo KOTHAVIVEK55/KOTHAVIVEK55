@@ -29,7 +29,7 @@
 
 ## ◈ About
 
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=KOTHAVIVEK55&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=7C3AED&icon_color=6D28D9&text_color=C4B5FD" />
+<img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=KOTHAVIVEK55&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=7C3AED&icon_color=6D28D9&text_color=C4B5FD&hide_rank=true" />
 
 Backend engineer and AI/ML developer currently pursuing B.Tech in Computer Science (AI & ML) at CMR College of Engineering and Technology, Hyderabad. I design and build production-grade backend systems, intelligent machine learning pipelines, and real-time data architectures that solve meaningful problems.
 
