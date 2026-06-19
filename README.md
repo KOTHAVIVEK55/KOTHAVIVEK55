@@ -244,7 +244,7 @@ Designed and implemented a production-grade backend automation framework for ser
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KOTHAVIVEK55&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=7C3AED&icon_color=6D28D9&text_color=C4B5FD&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KOTHAVIVEK55&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=7C3AED&icon_color=6D28D9&text_color=C4B5FD&count_private=true&hide_rank=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KOTHAVIVEK55&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=7C3AED&text_color=C4B5FD"/>
 
 </div>
