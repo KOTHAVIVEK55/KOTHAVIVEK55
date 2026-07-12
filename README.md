@@ -7,7 +7,7 @@
 <br/>
 
 ![B.Tech CSE(AI&ML)](https://img.shields.io/badge/B.Tech-CSE%20AI%26ML-6D28D9?style=for-the-badge&logo=academia&logoColor=white)
-![GPA](https://img.shields.io/badge/GPA-8.65%2F10-7C3AED?style=for-the-badge&logoColor=white)
+![GPA](https://img.shields.io/badge/GPA-8.69%2F10-7C3AED?style=for-the-badge&logoColor=white)
 ![Location](https://img.shields.io/badge/Hyderabad-India-4F46E5?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/>
