@@ -198,7 +198,7 @@ Designed and implemented a production-grade backend automation framework for ser
 
 | Recognition | Details |
 |:---:|:---:|
-| 🎓 Academic Excellence | B.Tech GPA 8.65 / 10 · Intermediate 95.5% · School GPA 10/10 |
+| 🎓 Academic Excellence | B.Tech GPA 8.69 / 10 · Intermediate 95.5% · School GPA 10/10 |
 | ⚡ Engineering Impact | 80% reduction in manual follow-up via ML-driven automation |
 | 🚀 Performance Engineering | 10x faster at-risk student identification with 3-tier classification |
 | 💡 Zero-Cost Architecture | Full outreach pipeline on free-tier tools — zero infrastructure cost |
