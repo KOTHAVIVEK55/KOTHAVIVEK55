@@ -269,7 +269,6 @@ Designed and implemented a production-grade backend automation framework for ser
 
 ---
 
-## ◈ Contribution Snake
 
 ## ◈ Contribution Snake
 
